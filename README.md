@@ -33,13 +33,13 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 
 ## Scope
 
-| Names | Description | Source |
-| ----- | ----------- | ------ |
-| alice-tools | Tools for extracting/editing files from AliceSoft games. | https://github.com/nunuhara/alice-tools |
-| easydict-win32 | Easy to look up words or translate text. Windows port of tisfeng/Easydict. | https://github.com/xiaocang/easydict_win32 |
-| ExplorerTabUtility | 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! | https://github.com/w4po/ExplorerTabUtility |
-| font-noble-scarlet | Backup for windows fonts: Noble Scarlet \| Windows 字体备份：堕朱砂 | https://github.com/bgzo-sandbox/noble-scarlet/ |
-| gohttpserver | The best HTTP Static File Server, write with golang+vue | https://github.com/codeskyblue/gohttpserver |
-| HotCornersWin | macOS "hot corners" feature for Windows | https://github.com/flexits/HotCornersWin |
-| steamcloudfilemanager | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. | https://github.com/Fldicoahkiin/SteamCloudFileManager |
-| winghostty | Ghostty, now on Windows! 👻 | https://github.com/amanthanvi/winghostty |
+| Names | Description |
+| ----- | ----------- |
+| [alice-tools](https://github.com/nunuhara/alice-tools) | Tools for extracting/editing files from AliceSoft games. |
+| [easydict-win32](https://github.com/xiaocang/easydict_win32) | Easy to look up words or translate text. Windows port of tisfeng/Easydict. |
+| [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! |
+| [font-noble-scarlet](https://github.com/bgzo-sandbox/noble-scarlet/) | Backup for windows fonts: Noble Scarlet \| Windows 字体备份：堕朱砂 |
+| [gohttpserver](https://github.com/codeskyblue/gohttpserver) | The best HTTP Static File Server, write with golang+vue |
+| [HotCornersWin](https://github.com/flexits/HotCornersWin) | macOS "hot corners" feature for Windows |
+| [steamcloudfilemanager](https://github.com/Fldicoahkiin/SteamCloudFileManager) | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. |
+| [winghostty](https://github.com/amanthanvi/winghostty) | Ghostty, now on Windows! 👻 |
