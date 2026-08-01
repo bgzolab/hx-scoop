@@ -8,14 +8,14 @@ $rows = Get-ChildItem "$bucketPath\*.json" | Sort-Object Name | ForEach-Object {
     $name = $_.BaseName
     $desc = if ($m.description) { $m.description -replace '\|', '\|' } else { '' }
     $src  = if ($m.homepage) { $m.homepage -replace '\|', '\|' } else { '' }
-    "| $name | $desc | $src |"
+    "| [$name]($src) | $desc |"
 }
 
 $tableLines = @(
     '## Scope'
     ''
-    '| Names | Description | Source |'
-    '| ----- | ----------- | ------ |'
+    '| Names | Description |'
+    '| ----- | ----------- |'
 ) + $rows
 
 $tableBlock = $tableLines -join "`r`n"
