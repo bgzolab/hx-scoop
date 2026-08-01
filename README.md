@@ -42,3 +42,4 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 | gohttpserver | The best HTTP Static File Server, write with golang+vue | https://github.com/codeskyblue/gohttpserver |
 | HotCornersWin | macOS "hot corners" feature for Windows | https://github.com/flexits/HotCornersWin |
 | steamcloudfilemanager | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. | https://github.com/Fldicoahkiin/SteamCloudFileManager |
+| winghostty | Ghostty, now on Windows! 👻 | https://github.com/amanthanvi/winghostty |
