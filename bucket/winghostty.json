@@ -18,7 +18,7 @@
     "shortcuts": [["winghostty.exe", "winghostty"]],
     "checkver": {
         "github": "https://github.com/amanthanvi/winghostty"
-    },  
+    },
     "autoupdate": {
         "architecture": {
             "64bit": {
