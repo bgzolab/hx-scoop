@@ -41,5 +41,6 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 | [font-noble-scarlet](https://github.com/bgzo-sandbox/noble-scarlet/) | Backup for windows fonts: Noble Scarlet \| Windows 字体备份：堕朱砂 |
 | [gohttpserver](https://github.com/codeskyblue/gohttpserver) | The best HTTP Static File Server, write with golang+vue |
 | [HotCornersWin](https://github.com/flexits/HotCornersWin) | macOS "hot corners" feature for Windows |
+| [logseq-og](https://github.com/logseq/og) | A privacy-first platform for knowledge sharing and management |
 | [steamcloudfilemanager](https://github.com/Fldicoahkiin/SteamCloudFileManager) | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. |
 | [winghostty](https://github.com/amanthanvi/winghostty) | Ghostty, now on Windows! 👻 |
