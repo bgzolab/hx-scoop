@@ -9,12 +9,7 @@
             "hash": "7274779b15438b1572f84a756b5d9db75a7564abed2ed519107a7d55b5411cb6"
         }
     },
-    "shortcuts": [
-        [
-            "Logseq.exe",
-            "Logseq-og"
-        ]
-    ],
+    "shortcuts": [["Logseq-OG.exe", "Logseq-OG"]],
     "checkver": {
         "github": "https://github.com/logseq/og"
     },
