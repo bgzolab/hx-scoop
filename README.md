@@ -39,6 +39,7 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 | [easydict-win32](https://github.com/xiaocang/easydict_win32) | Easy to look up words or translate text. Windows port of tisfeng/Easydict. |
 | [ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! |
 | [font-noble-scarlet](https://github.com/bgzo-sandbox/noble-scarlet/) | Backup for windows fonts: Noble Scarlet \| Windows 字体备份：堕朱砂 |
+| [game-cheats-manager](https://github.com/dyang886/Game-Cheats-Manager) | An open-source, multiple-source dashboard for single-player game trainers. |
 | [gohttpserver](https://github.com/codeskyblue/gohttpserver) | The best HTTP Static File Server, write with golang+vue |
 | [HotCornersWin](https://github.com/flexits/HotCornersWin) | macOS "hot corners" feature for Windows |
 | [logseq-og](https://github.com/logseq/og) | A privacy-first platform for knowledge sharing and management |

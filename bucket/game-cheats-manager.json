@@ -1,0 +1,30 @@
+{
+    "version": "2.4.6",
+    "description": "Game Cheats Manager (GCM). An open-source, multiple-source dashboard for single-player game trainers.",
+    "homepage": "https://github.com/dyang886/Game-Cheats-Manager",
+    "license": "GPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v2.4.6/Game.Cheats.Manager.Setup.2.4.6.exe",
+            "hash": "sha256:d6229ec299b001c277327e78256cb7bcc471a5bb90a86fbd6aeebcb76bc6a129"
+        }
+    },
+    "bin": "Game Cheats Manager.exe",
+    "shortcuts": [
+        [
+            "Game Cheats Manager.exe",
+            "Game Cheats Manager"
+        ]
+    ],
+    "checkver": {
+        "github": "https://github.com/dyang886/Game-Cheats-Manager"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/dyang886/Game-Cheats-Manager/releases/download/v$version/Game.Cheats.Manager.Setup.$version.exe"
+            }
+        }
+    },
+    "innosetup": true
+}
