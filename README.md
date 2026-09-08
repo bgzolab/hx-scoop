@@ -46,7 +46,6 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 | [steamcloudfilemanager](https://github.com/Fldicoahkiin/SteamCloudFileManager) | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. |
 | [winghostty](https://github.com/amanthanvi/winghostty) | Ghostty, now on Windows! 👻 |
 
-
 ## Notes
 
 Some softwares bring a native update checker, which not compatible with Scoop's update mechanism. So those should not be include in this bucket:
