@@ -25,7 +25,7 @@ nonportable https://github.com/ScoopInstaller/Nonportable      2026/6/28 1:34:03
 java        https://github.com/ScoopInstaller/Java             2026/6/26 5:43:01        335
 dorado      https://github.com/h404bi/dorado                   2026/6/28 8:45:24        272
 extras-cn   https://github.com/Scoopforge/Extras-CN            2026/6/28 22:20:38        89
-hx          https://github.com/bgzolab/hx-scoop                   2026/6/29 1:00:02          5
+hx          https://github.com/bgzolab/hx-scoop                2026/6/29 1:00:02          5
 lemon       https://github.com/hoilc/scoop-lemon               2026/6/29 0:13:59       2586
 scoopcn     https://github.com/scoopcn/scoopcn.git             2026/6/26 12:43:01        31
 Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:14       591
