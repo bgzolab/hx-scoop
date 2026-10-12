@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "bgzo/hx-scoop:main"
+    [String]$upstream = "bgzolab/hx-scoop:main"
 )
 
 if (!$env:SCOOP_HOME) { $env:SCOOP_HOME = Convert-Path (scoop prefix scoop) }
