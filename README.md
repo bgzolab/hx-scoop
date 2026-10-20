@@ -54,3 +54,5 @@ Some softwares bring a native update checker, which not compatible with Scoop's 
 1. https://chat.xiaoheihe.cn/
 2. https://www.google.com/chrome/
 
+Scoop cannot offer Homebrew's hands-off auto-update model. It only trusts the version recorded in the manifest, so an app that upgrades itself in place (built-in updater or silent background update) desynchronizes the installation and can break `scoop update`, `scoop checkup`, or uninstall. Apps that update automatically are therefore generally not recommended for Scoop management and are excluded from this bucket; upgrade Scoop-managed apps through `scoop update`, never through the app's own updater.
+
