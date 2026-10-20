@@ -44,8 +44,8 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 | [HotCornersWin](https://github.com/flexits/HotCornersWin) | macOS "hot corners" feature for Windows |
 | [logseq-og-fork](https://github.com/bgzo/logseq-og) | A privacy-first platform for knowledge sharing and management. (Fork build of Logseq OG) |
 | [logseq-og](https://github.com/logseq/og) | A privacy-first platform for knowledge sharing and management |
+| [noctty](https://github.com/amanthanvi/noctty) | A fast, native terminal for Windows. Formerly winghostty. 👻 |
 | [steamcloudfilemanager](https://github.com/Fldicoahkiin/SteamCloudFileManager) | Cross-platform GUI for Steam Cloud. Visualizes remote storage as a file tree with download, upload, and delete capabilities. |
-| [winghostty](https://github.com/amanthanvi/winghostty) | Ghostty, now on Windows! 👻 |
 
 ## Notes
 
