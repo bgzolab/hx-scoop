@@ -41,6 +41,7 @@ Versions    https://github.com/ScoopInstaller/Versions         2026/6/28 22:19:1
 | [font-noble-scarlet](https://github.com/bgzo-sandbox/noble-scarlet/) | Backup for windows fonts: Noble Scarlet \| Windows 字体备份：堕朱砂 |
 | [game-cheats-manager](https://github.com/dyang886/Game-Cheats-Manager) | Game Cheats Manager (GCM). An open-source, multiple-source dashboard for single-player game trainers. |
 | [gohttpserver](https://github.com/codeskyblue/gohttpserver) | The best HTTP Static File Server, write with golang+vue |
+| [hex](https://github.com/anomalyco/hex) | Local voice dictation for Windows, macOS and Linux. |
 | [HotCornersWin](https://github.com/flexits/HotCornersWin) | macOS "hot corners" feature for Windows |
 | [logseq-og-fork](https://github.com/bgzo/logseq-og) | A privacy-first platform for knowledge sharing and management. (Fork build of Logseq OG) |
 | [logseq-og](https://github.com/logseq/og) | A privacy-first platform for knowledge sharing and management |
